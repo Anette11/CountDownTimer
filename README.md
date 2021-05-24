@@ -1,5 +1,5 @@
-# CountDownTimerApp
-CountDownTimerApp created in Android Studio
+# CountDownTimer
+CountDownTimer created in Android Studio
 
 Press TextViewProgress in the center of the screen to invoke AlertDialog. Set minutes and seconds.
 
